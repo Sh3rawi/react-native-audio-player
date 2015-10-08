@@ -1,0 +1,24 @@
+{
+  "name": "react-native-audio-player",
+  "version": "0.0.1",
+  "describtion": "Play Android audio files in react-native",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sh3rawi/react-native-audio-player.git"
+  },
+  "main": "audio.js",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "android"
+  ],
+  "author": {
+    "name": "Hamzeh Sharawi",
+    "email": "hamza.sharawi@gmail.com",
+    "url": "https://github.com/sh3rawi"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": ">=0.11"
+  }
+}
