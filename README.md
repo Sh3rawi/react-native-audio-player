@@ -67,7 +67,7 @@ public class MainActivity extends Activity implements DefaultHardwareBackBtnHand
   Please put you audio resources in android/app/src/main/res/raw
   
   
-(Thanks to @chirag04 for writing the instructions)
+(Thanks to @chirag04 for writing the instructions) - And thanks for @rebeccahughes as I followed her react-native-device-info to make this work!
 
 ## Example
 
